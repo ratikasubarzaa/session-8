@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73f6e351-3c19-4456-97f0-576a703cd494" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Karate" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="Rerun Failed Tests" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dzEDcdcGiYgtdBNkeBJjwyJPn5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.Runner (1).executor": "Run",
+    "JUnit.Runner.executor": "Run",
+    "JUnit.Runner.runGet.executor": "Run",
+    "JUnit.Runner.runMealPlan.executor": "Run",
+    "JUnit.Runner.runMisc.executor": "Debug",
+    "JUnit.Runner.runPet.executor": "Run",
+    "JUnit.Runner.runRecipes.executor": "Run",
+    "JUnit.Runner.runStore.executor": "Run",
+    "JUnit.Runner.runUser.executor": "Run",
+    "Karate Feature.mealplan.feature: Delete from Meal Plan.executor": "Run",
+    "Karate Feature.mealplan.feature: mealplan.feature.executor": "Run",
+    "Karate Feature.mealplan.feature: test generate meal plan.executor": "Run",
+    "Karate Feature.misc.feature: Image analysis by url.executor": "Run",
+    "Karate Feature.search_recipes.feature: Get ingredients by ID.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Kredivo-tools/tools-automation",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Les Les\KarateTutorial\src\test\java\TestSuite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner.runRecipes">
+    <configuration name="Runner.runMisc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateNSSOL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runMisc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.runRecipes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateNSSOL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runRecipes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mealplan.feature: Delete from Meal Plan" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/java/TestSuite/MealPlan/mealplan.feature:50" />
+        </list>
+      </option>
+      <module name="KarateNSSOL" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="misc.feature: Image analysis by url" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/java/TestSuite/Misc/misc.feature:25" />
+        </list>
+      </option>
+      <module name="KarateNSSOL" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_recipes.feature: Get ingredients by ID" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/java/TestSuite/Recipes/search_recipes.feature:21" />
+        </list>
+      </option>
+      <module name="KarateNSSOL" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner.runRecipes" />
+        <item itemvalue="JUnit.Runner.runMisc" />
+        <item itemvalue="Karate Feature.mealplan.feature: Delete from Meal Plan" />
+        <item itemvalue="Karate Feature.search_recipes.feature: Get ingredients by ID" />
+        <item itemvalue="Karate Feature.misc.feature: Image analysis by url" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f6e351-3c19-4456-97f0-576a703cd494" name="Changes" comment="" />
+      <created>1711002392468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711002392468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TestSuite/Runner.java</url>
+          <line>24</line>
+          <properties class="TestSuite.Runner" method="runRecipes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KarateAdvance$mealplan_feature__mealplan_feature.ic" NAME="mealplan.feature: mealplan.feature Coverage Results" MODIFIED="1711837178856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

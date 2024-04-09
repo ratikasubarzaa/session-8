@@ -1,0 +1,469 @@
+ {
+    "ID": "AK",
+    "LocalizedName": "Alaska",
+    "EnglishName": "Alaska",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "AL",
+    "LocalizedName": "Alabama",
+    "EnglishName": "Alabama",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "AR",
+    "LocalizedName": "Arkansas",
+    "EnglishName": "Arkansas",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "AZ",
+    "LocalizedName": "Arizona",
+    "EnglishName": "Arizona",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "CA",
+    "LocalizedName": "California",
+    "EnglishName": "California",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "CO",
+    "LocalizedName": "Colorado",
+    "EnglishName": "Colorado",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "CT",
+    "LocalizedName": "Connecticut",
+    "EnglishName": "Connecticut",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "DC",
+    "LocalizedName": "District of Columbia",
+    "EnglishName": "District of Columbia",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "US"
+  },
+  {
+    "ID": "DE",
+    "LocalizedName": "Delaware",
+    "EnglishName": "Delaware",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "FL",
+    "LocalizedName": "Florida",
+    "EnglishName": "Florida",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "GA",
+    "LocalizedName": "Georgia",
+    "EnglishName": "Georgia",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "HI",
+    "LocalizedName": "Hawaii",
+    "EnglishName": "Hawaii",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "IA",
+    "LocalizedName": "Iowa",
+    "EnglishName": "Iowa",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "ID",
+    "LocalizedName": "Idaho",
+    "EnglishName": "Idaho",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "IL",
+    "LocalizedName": "Illinois",
+    "EnglishName": "Illinois",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "IN",
+    "LocalizedName": "Indiana",
+    "EnglishName": "Indiana",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "KS",
+    "LocalizedName": "Kansas",
+    "EnglishName": "Kansas",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "KY",
+    "LocalizedName": "Kentucky",
+    "EnglishName": "Kentucky",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "LA",
+    "LocalizedName": "Louisiana",
+    "EnglishName": "Louisiana",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MA",
+    "LocalizedName": "Massachusetts",
+    "EnglishName": "Massachusetts",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MD",
+    "LocalizedName": "Maryland",
+    "EnglishName": "Maryland",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "ME",
+    "LocalizedName": "Maine",
+    "EnglishName": "Maine",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MI",
+    "LocalizedName": "Michigan",
+    "EnglishName": "Michigan",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MN",
+    "LocalizedName": "Minnesota",
+    "EnglishName": "Minnesota",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MO",
+    "LocalizedName": "Missouri",
+    "EnglishName": "Missouri",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MS",
+    "LocalizedName": "Mississippi",
+    "EnglishName": "Mississippi",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "MT",
+    "LocalizedName": "Montana",
+    "EnglishName": "Montana",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NC",
+    "LocalizedName": "North Carolina",
+    "EnglishName": "North Carolina",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "ND",
+    "LocalizedName": "North Dakota",
+    "EnglishName": "North Dakota",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NE",
+    "LocalizedName": "Nebraska",
+    "EnglishName": "Nebraska",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NH",
+    "LocalizedName": "New Hampshire",
+    "EnglishName": "New Hampshire",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NJ",
+    "LocalizedName": "New Jersey",
+    "EnglishName": "New Jersey",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NM",
+    "LocalizedName": "New Mexico",
+    "EnglishName": "New Mexico",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NV",
+    "LocalizedName": "Nevada",
+    "EnglishName": "Nevada",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "NY",
+    "LocalizedName": "New York",
+    "EnglishName": "New York",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "OH",
+    "LocalizedName": "Ohio",
+    "EnglishName": "Ohio",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "OK",
+    "LocalizedName": "Oklahoma",
+    "EnglishName": "Oklahoma",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "OR",
+    "LocalizedName": "Oregon",
+    "EnglishName": "Oregon",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "PA",
+    "LocalizedName": "Pennsylvania",
+    "EnglishName": "Pennsylvania",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "RI",
+    "LocalizedName": "Rhode Island",
+    "EnglishName": "Rhode Island",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "SC",
+    "LocalizedName": "South Carolina",
+    "EnglishName": "South Carolina",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "SD",
+    "LocalizedName": "South Dakota",
+    "EnglishName": "South Dakota",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "TN",
+    "LocalizedName": "Tennessee",
+    "EnglishName": "Tennessee",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "TX",
+    "LocalizedName": "Texas",
+    "EnglishName": "Texas",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "UT",
+    "LocalizedName": "Utah",
+    "EnglishName": "Utah",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "VA",
+    "LocalizedName": "Virginia",
+    "EnglishName": "Virginia",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "VT",
+    "LocalizedName": "Vermont",
+    "EnglishName": "Vermont",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "WA",
+    "LocalizedName": "Washington",
+    "EnglishName": "Washington",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "WI",
+    "LocalizedName": "Wisconsin",
+    "EnglishName": "Wisconsin",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "WV",
+    "LocalizedName": "West Virginia",
+    "EnglishName": "West Virginia",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "WY",
+    "LocalizedName": "Wyoming",
+    "EnglishName": "Wyoming",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "US"
+  },
+  {
+    "ID": "X01",
+    "LocalizedName": "United States Naval Base Guantanamo Bay",
+    "EnglishName": "United States Naval Base Guantanamo Bay",
+    "Level": 1,
+    "LocalizedType": "Sovereign Base Area",
+    "EnglishType": "Sovereign Base Area",
+    "CountryID": "US"
+  }
+}
